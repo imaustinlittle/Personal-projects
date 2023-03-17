@@ -17,5 +17,5 @@ async def hello(ctx):
     await ctx.send("Hello! I'm your Discord bot!")
 
 # Run the bot
-TOKEN = "MTA4NjM1NjEzMDA0Mjc2MTM1Mw.GtEz-5.eabgdze0vvk_fWlO_pkkUhyexJTSFtpSLsIJCE"
+TOKEN = "TOKEN"
 bot.run(TOKEN)
